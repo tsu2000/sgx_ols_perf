@@ -1,3 +1,4 @@
+# Changes made here won't impact the deployed app, which runs on a Shiny server.
 library(shiny)
 library(shinythemes)
 library(ggplot2)
