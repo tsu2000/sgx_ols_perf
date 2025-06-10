@@ -1,6 +1,6 @@
 # 📊 SGX Multiple OLS Regression Analysis
 
-**Link to Web App 👉**: [HERE](https://github.com/tsu2000/sgx_ols_perf)
+**Link to Web App 👉**: [HERE](https://tsu2000.shinyapps.io/sgx_ols/)
 
 ![SGX OLS Analysis Screenshot](https://github.com/user-attachments/assets/b55cd1f6-85e0-4eb0-9f5e-5a7a33aa467c)
 
